@@ -1,6 +1,6 @@
 # Project instalation
-1 - clone the repository.
-2 - run the command composer install.
+1 - clone the repository. \n
+2 - run the command composer install. <br />
 3 - php -S localhost:8000 -t public
 Note: the project use the Lumen Framework.
 
