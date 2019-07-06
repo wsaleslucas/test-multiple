@@ -4,7 +4,7 @@ namespace App\Http\Core;
 class DiscoveryMultiples
 {
     private $result;
-    
+
     public function dynamicMultiples($number)
     {
         $multiples[] = ['3', 'Linio', '5'];
